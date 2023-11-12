@@ -1,6 +1,5 @@
-# Face ID
-Face-Recognition (Vision Project)
 # Face ID Computer Vision Project
+Face-Recognition
 
 ## Overview
 
